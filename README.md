@@ -26,9 +26,6 @@ I’m Jorge Gómez Graterol, an operations lead managing 45+ people and now tran
 - UiPath Data Pipeline Bot (download → clean → load to PB)
 - UiPath Web Scraper (pricing tracker)
 
-## Tools
-Excel · Power BI · SQL (PostgreSQL, SQLite) · UiPath · Git/GitHub
-
 ## 📸 Previews
 
 (Screenshots and GIFs will be added as projects are completed)
