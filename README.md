@@ -1,24 +1,9 @@
-📸 Previews
-
-(Screenshots and GIFs will be added as projects are completed)
-
-
-
-
-
-
-________________________________
-
-
-
-
-
 # 📊 Data Analytics + 🤖 RPA Portfolio
 
 This repository will host my portfolio projects in **Data Analytics** (Excel, Power BI, SQL) and **Robotic Process Automation (RPA)** with **UiPath**.
 
 ## 👤 About me
-I’m Jorge Gómez Graterol, an operations lead transitioning into data and automation. I’m building practical projects to demonstrate skills in data cleaning, analysis, visualization, and process automation.
+I’m Jorge Gómez Graterol, an operations lead managing 45+ people and now transitioning into data and automation. I’m building practical projects to demonstrate skills in data cleaning, analysis, visualization, and process automation.
 💡 My goal is a fully remote role where I can combine **Power BI + SQL** with **UiPath** to deliver measurable impact.
 
 ## 🛠 Skills & Tools
